@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:tada: Some of my favorite things to do are to ***Watch Netflix*** and ***Play 2k*** 
